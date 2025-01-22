@@ -17,8 +17,6 @@ uygulaması olarak değil, aynı zamanda basit bir kullanıcı arayüzüne de sa
 *Amacı:* Bu proje tekel olarak işletilen otoparkların dijital sisteme adapte olmasını
 sağlayarak, yönetimi daha verimli hale getirmeyi amaçlamaktadır.
 
-Deneyecekeler için ek bilgi:
-
+Giriş Bilgileri:
 Kullanıcı Adı: Oto
-
 Şifre: ark1
