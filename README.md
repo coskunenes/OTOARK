@@ -1,5 +1,5 @@
 # OTOARK
-***EN:***
+***EN***
 
 A parking lot automation in Java.
 
@@ -17,7 +17,7 @@ Password: ark1
 
 --------------------------------------------------------------------------------------------------------------
 
-***TR:***
+***TR***
 
 Java'da bir otopark otomasyonu.
 
