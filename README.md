@@ -1,9 +1,9 @@
 # OTOARK
 A parking lot automation in Java.
 
-Proje Adı: OTOARK
+*Proje Adı:* OTOARK
 
-Açıklama: Bu proje Java dilinde geliştirilmiş nesne tabanlı bir otopark otomasyon
+*Açıklama:* Bu proje Java dilinde geliştirilmiş nesne tabanlı bir otopark otomasyon
 sistemidir. 
 Sistemde gelen araçların plaka bilgileri girilerek, otoparktaki uygun
 alanlara park edilmesi sağlanmaktadır. Araç giriş saati sistem tarafından lokal
@@ -14,7 +14,7 @@ ve park yeri boş konumuna geri döner. Proje ayrıca abonelik yönetimi ve tari
 ücretlendirme değişiklikleri gibi özellikler de sunmaktadır. Sistem sadece konsol
 uygulaması olarak değil, aynı zamanda basit bir kullanıcı arayüzüne de sahiptir.
 
-Amacı: Bu proje tekel olarak işletilen otoparkların dijital sisteme adapte olmasını
+*Amacı:* Bu proje tekel olarak işletilen otoparkların dijital sisteme adapte olmasını
 sağlayarak, yönetimi daha verimli hale getirmeyi amaçlamaktadır.
 
 Deneyecekeler için ek bilgi:
