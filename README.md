@@ -19,6 +19,8 @@ Password: ark1
 
 TR
 
+Java'da bir otopark otomasyonu.
+
 **Proje Adı:** OTOARK
 
 **Açıklama:** Bu proje Java dilinde geliştirilmiş nesne tabanlı bir otopark otomasyon
