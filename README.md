@@ -18,5 +18,7 @@ Amacı: Bu proje tekel olarak işletilen otoparkların dijital sisteme adapte ol
 sağlayarak, yönetimi daha verimli hale getirmeyi amaçlamaktadır.
 
 Deneyecekeler için ek bilgi:
+
 Kullanıcı Adı: Oto
+
 Şifre: ark1
