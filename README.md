@@ -41,3 +41,5 @@ sağlayarak, yönetimi daha verimli hale getirmeyi amaçlamaktadır.
 
 Kullanıcı Adı: Oto |
 Şifre: ark1
+
+![OTOARK](https://github.com/user-attachments/assets/966caea5-b6b2-425e-b31b-aa927ca29337)
