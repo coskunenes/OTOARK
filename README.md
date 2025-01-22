@@ -12,7 +12,7 @@ In this system, vehicle plate information is entered for incoming cars, and they
 
 **Login Information:**
 
-Username: Oto
+Username: Oto |
 Password: ark1
 
 --------------------------------------------------------------------------------------------------------------
@@ -39,5 +39,5 @@ sağlayarak, yönetimi daha verimli hale getirmeyi amaçlamaktadır.
 
 **Giriş Bilgileri:**
 
-Kullanıcı Adı: Oto
+Kullanıcı Adı: Oto |
 Şifre: ark1
